@@ -16,6 +16,7 @@ O projeto está completo e essas foram as tarefas executadas:
 
 - [x] Estruturar com HTML
 - [x] Estilizar com Css
+- [x] Usar Figma para ajustar tamanhos e cores
 
 
 ## 🤝 Colaboradores
